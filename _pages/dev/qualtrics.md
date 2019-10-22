@@ -1,5 +1,5 @@
 ---
-title: Qualtrics Integration (DRAFT)
+title: Qualtrics Integration (DRAFT) ssss
 ---
 
 Qualtrics is integratable to Spartacus. Users can set-up their qualtrics seamlessly and we facilate the usage on a Single-Page Application (SPA).
